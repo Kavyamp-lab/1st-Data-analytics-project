@@ -22,10 +22,7 @@ region.
 * For mathematical analysis mentioned above do that in python (vs code or in jupyter).
 * Than run the python file( i have uploaded file below dashboard and remember to replace youre file in file path).
 * Than you will get required files to create final analysis dashboard.
-  DASHBOARDS
-* Basic_core_metrics- https://public.tableau.com/shared/995XJZB4S?:display_count=n&:origin=viz_share_link
-* Cohort and market basket analysis - https://public.tableau.com/views/Cohortandmarketbasketanalysis/Cohortandmarketbasketanalysis?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-* RFM Analysis - https://public.tableau.com/views/RFMAnalysis_17709018675310/RFMAnalysis?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 
